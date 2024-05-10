@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\CleanArchitectureBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7B00F7-16A7-41D5-A90D-BDA74B6B816E}|API\\API.csproj|d:\\study\\cleanarchitectureblazor\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA7B00F7-16A7-41D5-A90D-BDA74B6B816E}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\pages\\account\\identity\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\account\\identity\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A67FDC5-6FD5-4DC8-B5D5-AA6BB166C56B}|Infrastructure\\Infrastructure.csproj|d:\\study\\cleanarchitectureblazor\\infrastructure\\repos\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A67FDC5-6FD5-4DC8-B5D5-AA6BB166C56B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repos\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7B00F7-16A7-41D5-A90D-BDA74B6B816E}|API\\API.csproj|d:\\study\\cleanarchitectureblazor\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7B00F7-16A7-41D5-A90D-BDA74B6B816E}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\extensions\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\extensions\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\extensions\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\extensions\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\extensions\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\extensions\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\extensions\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\extensions\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\pages\\content\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\content\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\layout\\account\\identity\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\layout\\account\\identity\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\pages\\account\\identity\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\account\\identity\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|d:\\study\\cleanarchitectureblazor\\application\\contract\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9CDD0-8406-4413-B8ED-7D9C87D9B31B}|Application\\Application.csproj|solutionrelative:application\\contract\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\pages\\account\\identity\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\account\\identity\\logoutpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\pages\\account\\identity\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\account\\identity\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|d:\\study\\cleanarchitectureblazor\\webui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C015B1F-3E41-4604-B89B-19985F2F689C}|WebUI\\WebUI.csproj|solutionrelative:webui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T10:56:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\App.razor",
+              "RelativeDocumentMoniker": "WebUI\\App.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\App.razor",
+              "RelativeToolTip": "WebUI\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:38:28.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Content\\Home.razor",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Content\\Home.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Content\\Home.razor",
+              "RelativeToolTip": "WebUI\\Pages\\Content\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:36:27.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationLayout.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Layout\\Account\\Identity\\AuthenticationLayout.razor",
+              "RelativeDocumentMoniker": "WebUI\\Layout\\Account\\Identity\\AuthenticationLayout.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Layout\\Account\\Identity\\AuthenticationLayout.razor",
+              "RelativeToolTip": "WebUI\\Layout\\Account\\Identity\\AuthenticationLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:25:05.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationPage.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\AuthenticationPage.razor",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Account\\Identity\\AuthenticationPage.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\AuthenticationPage.razor",
+              "RelativeToolTip": "WebUI\\Pages\\Account\\Identity\\AuthenticationPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:25:05.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Infrastructure\\Repos\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repos\\AccountRepository.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Infrastructure\\Repos\\AccountRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repos\\AccountRepository.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAwIkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:05.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Application\\Extensions\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:05.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:05.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "Application\\Services\\AccountService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAewD8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions\\HttpClientService.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\HttpClientService.cs",
+              "RelativeToolTip": "Application\\Extensions\\HttpClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "Application\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:25:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:38:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\Constant.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions\\Constant.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\Constant.cs",
+              "RelativeToolTip": "Application\\Extensions\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:37:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\LoginPage.razor",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Account\\Identity\\LoginPage.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\LoginPage.razor",
+              "RelativeToolTip": "WebUI\\Pages\\Account\\Identity\\LoginPage.razor",
+              "ViewState": "AQIAACMAAAAAAAAAAAAewDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:25:05.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomHttpHandler.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\CustomHttpHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions\\CustomHttpHandler.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\Extensions\\CustomHttpHandler.cs",
+              "RelativeToolTip": "Application\\Extensions\\CustomHttpHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:25:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\Application\\Contract\\IAccount.cs",
+              "RelativeDocumentMoniker": "Application\\Contract\\IAccount.cs",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\Application\\Contract\\IAccount.cs",
+              "RelativeToolTip": "Application\\Contract\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:52:32.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebUI\\wwwroot\\index.html",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\wwwroot\\index.html",
+              "RelativeToolTip": "WebUI\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-07T10:15:23.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogoutPage.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\LogoutPage.razor",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Account\\Identity\\LogoutPage.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\LogoutPage.razor",
+              "RelativeToolTip": "WebUI\\Pages\\Account\\Identity\\LogoutPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:39:08.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Account\\Identity\\RedirectToLogin.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Pages\\Account\\Identity\\RedirectToLogin.razor",
+              "RelativeToolTip": "WebUI\\Pages\\Account\\Identity\\RedirectToLogin.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:41:09.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WebUI\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WebUI\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:42:22.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\_Imports.razor",
+              "RelativeDocumentMoniker": "WebUI\\_Imports.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\_Imports.razor",
+              "RelativeToolTip": "WebUI\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:27:02.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WebUI\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Study\\CleanArchitectureBlazor\\WebUI\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "WebUI\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:24:59.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
